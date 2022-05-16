@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.7",
+  "appInfo": {
+    "name": "app/user",
+    "description": "Learning amplication",
+    "version": "0dqdb17x",
+    "id": "cl1p460jm791401s6ukh59plw",
+    "url": "https://app.amplication.com/cl1p460jm791401s6ukh59plw",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "db",
+      "dbPassword": "foxadmin",
+      "dbPort": 5432,
+      "dbUser": "fox",
+      "appId": "cl1p460jm791401s6ukh59plw",
+      "authProvider": "Jwt"
+    }
+  }
+}
