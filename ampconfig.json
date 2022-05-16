@@ -3,14 +3,14 @@
   "appInfo": {
     "name": "app/user",
     "description": "Learning amplication",
-    "version": "j1tdnz75",
+    "version": "u7eoacka",
     "id": "cl1p460jm791401s6ukh59plw",
     "url": "https://app.amplication.com/cl1p460jm791401s6ukh59plw",
     "settings": {
       "dbHost": "localhost",
       "dbName": "db",
       "dbPassword": "foxadmin",
-      "dbPort": 5432,
+      "dbPort": 5435,
       "dbUser": "fox",
       "appId": "cl1p460jm791401s6ukh59plw",
       "authProvider": "Jwt"
